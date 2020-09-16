@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Avenir:300,400,500,600,700');
 
 body {
     color: #262626;
     font-size: 16px;
     line-height: 1.8;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Avenir', sans-serif;
 }
 
 img {
@@ -193,7 +193,7 @@ a:hover, a:active {
 .site-navigation ul li a {
     display: block;
     padding: 16px 0;
-    font-size: 14px;
+    font-size: 22px;
     font-weight: 600;
     line-height: 1;
     color: #262626;
@@ -440,7 +440,7 @@ a:hover, a:active {
 .btn.orange-border:hover,
 .btn.gradient-bg {
     border-color: transparent;
-    background: -moz-linear-gradient(180deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* ff3.6+ */
+    background: -moz-linear-gradient(180deg, rgba(255,15,0,1) 0%, rgba(255,54,0,1) 100%); /* ff3.6+ */
     background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(255,90,0,1)), color-stop(100%, rgba(1255,54,0,1))); /* safari4+,chrome */
     background: -webkit-linear-gradient(180deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* safari5.1+,chrome10+ */
     background: -o-linear-gradient(180deg, rgba(255,90,0,1) 0%, rgba(255,54,0,1) 100%); /* opera 11.10+ */
